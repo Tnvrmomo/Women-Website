@@ -1,7 +1,8 @@
 // filepath: /C:/Users/LAPAID/Downloads/Women Website/tailwind.config.js
 module.exports = {
   content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
     extend: {},
